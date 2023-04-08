@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello 1
+=======
+hello hello hello space 
+>>>>>>> alien-plot

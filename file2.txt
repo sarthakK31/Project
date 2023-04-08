@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello2
+=======
+manike manike manike space 
+>>>>>>> alien-plot
